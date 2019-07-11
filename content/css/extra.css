@@ -1,0 +1,37 @@
+h1
+{
+color:red !important;
+padding-bottom:0px !important;
+margin-bottom: 0px !important;
+}
+
+h2
+{
+	margin-top:0px !important
+}
+
+h3
+{
+color: #1a0b66	
+}
+
+input 
+{
+	border: 1px solid black
+}
+
+.footnote
+{
+border-bottom: 1px solid red;
+}
+
+h4
+{
+font-weight:bold;
+color:#da262f
+}
+.material-icons
+{
+font-size: 100%
+
+}

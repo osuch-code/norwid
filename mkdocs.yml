@@ -1,0 +1,83 @@
+docs_dir: content
+site_name: Cyprian Norwid - His Art & Work
+site_description: Polish writer, poet, painter, artist Cyprian Kamil Norwid - His Life and Work - 1821 - 1883
+site_author: TO
+
+
+theme:
+    custom_dir: themes
+    name: material
+    logo:
+      icon: 'public'  
+    palette:
+      primary: 'red'
+      accent: 'indigo'  
+    font:
+      text: 'Roboto'
+      code: 'Roboto Mono'
+    favicon: 'img/favicon.ico'
+
+extra_css:
+    - css/extra.css
+
+nav:
+- index.md
+- Biography: 
+    - Life & Times: biography/bio.md
+    - Interactive Timeline: biography/timeline.md
+- Poetry:
+  - Vade-mecum:
+    - Introduction: poetry/vademecum/index.md
+    - Poems (I - XXVII): poetry/vademecum/vademecum1.md
+    - Poems (XXVIII - LVII): poetry/vademecum/vademecum2.md
+    - Poems (LVIII - LXXXIX): poetry/vademecum/vademecum3.md
+    - Poems (XC - C): poetry/vademecum/vademecum4.md
+  - Selected Poems : poetry/selected/index.md
+  - Translations : poetry/translation/index.md
+- Drawings: drawings/index.md
+- Resources: 
+    - Books: resources/books.md
+- About: 
+    - Contact: about/contact.md
+- Projects: https://osuch.com/formtools/exp/project_board.htm
+
+extra:
+  search:
+    language: 'en'
+  social:
+    - type: 'twitter'
+      link: 'https://twitter.com/osuchted'
+    - type: 'linkedin'
+      link: 'https://www.linkedin.com/in/ted-osuch-60372a31'
+    - type: 'user'
+      link: 'https://osuch.com/formtools/exp/project_board.htm'
+
+# Google Analytics
+google_analytics:
+   - 'UA-110257032-1'
+   - 'auto'
+   
+   
+#Check installed extensions
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+  - meta
+  - footnotes
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
