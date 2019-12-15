@@ -5,7 +5,7 @@ site_author: TO
 
 
 theme:
-    custom_dir: themes
+    # custom_dir: themes
     name: material
     logo:
       icon: 'public'  
