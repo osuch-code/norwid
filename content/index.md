@@ -15,6 +15,9 @@ Having his work read by future generations was one of his hopes.
 ---
 
 ???+ note "*** Norwid News ***"
+
+    <a href="https://www.amazon.co.uk/dp/3631782780/?coliid=I1YKB0Z7MBB2N&colid=1VW22ACHBV5AU&psc=1&ref_=lv_ov_lig_dp_it" target="_blank">On Cyprian Norwid. Studies and Essays: Vol. 1 </a> <i class="material-icons">open_in_new</i> - The book is the first volume of an extensive four-volume monograph devoted to the work of Cyprian Norwid. 
+
     <a href="https://www.polskieradio.pl/7/5609/Artykul/2275949,Milosc-czysta-u-kapieli-morskich" target="_blank">"Miłość - czysta u kąpieli morskich" - komedia Cypriana Kamila Norwida - </a> <i class="material-icons">open_in_new</i> - Polskie Radio PL presents a short Norwid comedy.
 
     <a href="http://Norwidiana.blogspot.com" target="_blank">Norwidiana.blogspot.com </a> <i class="material-icons">open_in_new</i> - is as close as I can find to a site that posts **updated** news about a writer who died in 1883.
